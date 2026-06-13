@@ -62,7 +62,7 @@ CodeAlpha_Basic_Chatbot/
 │
 ├── chatbot.py
 ├── README.md
-└── screenshots/
+└── screenshot/
 ```
 
 ---
